@@ -1,2 +1,2 @@
-# -habit-tracker-frontend-web
+# Habit Tracker WEB
 A modern and complete habit tracking app
